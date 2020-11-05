@@ -1,0 +1,22 @@
++ Template Literals +
+
+Template literals memudahkan kita dalam menulis {string}.
+
+>> Mengapa menggunakan Template Literals?
+
+    Template literals sangat powerfull dibandingkan string biasa yang 
+    menggunakan kutip satu atau kutip dua. Penulisan template literals 
+    mengunakan karaketer backtick ``.
+   
+    Interpolasi atau memasukkan nilai ke dalam string menjadi lebih mudah menggunakan sintaks ${}.
+   
+    Tidak perlu menggunakan operator + untuk menggabungkan string.
+   
+    Lebih mudah menulis multiline.
+   
+    Tidak perlu menulis baris baru dengan karakter newline (\n) atau carriage return (\r).
+   
+    Bisa menggunakan tanda kutip bersarang (dengan kutip satu atau kutip dua) di dalam template literals.
+
+
+    sumber : https://medium.com/aufabillah/konsep-penting-javascript-modern-170217464d23
