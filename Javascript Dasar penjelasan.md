@@ -32,22 +32,22 @@
  ### penjelasan Const adalah nilai yang diberikan pada variabel const tidak bisa diubah lagi 
 
 ### > contoh error pada const :
- #### const inputan = "hai"
- #### const inputan = "World" (ini akan terjadi error pada console)
+ ##### const inputan = "hai"
+ ##### const inputan = "World" (ini akan terjadi error pada console)
 
 ### > contoh benar pada penggunaan variabel const : 
- #### const PHI : 3.14
- #### 2 * PHI ( ini akan berhasil pada console )
+ ##### const PHI : 3.14
+ ##### 2 * PHI ( ini akan berhasil pada console )
 
 
  ### perbedaan variabel var dan let adalah
 
-#### > var bisa dideklarasikan 2 kali
-#### > let tidak bisa dideklarasikan 2 kali 
+##### > var bisa dideklarasikan 2 kali
+##### > let tidak bisa dideklarasikan 2 kali 
 
  ### contoh deklarasi :
-  #### var inputan;
-  #### var inputan; (ini membuat programm berhasil)
+  ##### var inputan;
+  ##### var inputan; (ini membuat programm berhasil)
 
- #### let input;
- #### let input; (ini akan membuat programm error)  
+ ##### let input;
+ ##### let input; (ini akan membuat programm error)  
