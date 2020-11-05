@@ -1,26 +1,26 @@
 # Javascript-Excercises
-#*Basic Tipe data
+# *Basic Tipe data
 
   Number = 10,9.5,-999
   Boolean = True / False
   String = "3", "Hello World"
   Null undefined = null , Undefined
- ================================================
 
 # *Penjelasan singkat
+
  === < artinya Mengkoreksi nilai dan tipe data
  == < artinya membandingkan nilai saja
 > contoh : 
  2 == "2" hasil > True (karena membandingkan nilai)
  2 === "2" hasil > false (Karena tipe data tidak sama tapi nilai sama)
- ================================================
+
 
 # *Integrasi JS HTML
 
  > Console.log() artinya untuk memunculkan hasil sesuatu pada console web
  > Alert(" ")  artinya memunculkan notifikasi pada user
  > Prompt ("") artinya meminta inputan user 
- ================================================
+ 
 
 # *Variabel
  Struktur variabel Tipe Variabel dulu baru Nama Variabel
