@@ -8,14 +8,15 @@
 
 # Penjelasan singkat Operator Komparasi
 
-* == : sama dengan
-* != : tidak sama dengan
-* === : strict sama dengan
-* !== : strict tidak sama dengan
-* > : lebih besar
-* >= : lebih besar sama dengan
-* < : lebih kecil
-* <= : lebih kecil sama dengan
+* (==) : sama dengan
+* (!=) : tidak sama dengan
+* (===) : strict sama dengan
+* (!==) : strict tidak sama dengan
+* (>) : lebih besar
+* (>=) : lebih besar sama dengan
+* (<) : lebih kecil
+* (<=) : lebih kecil sama dengan
+ ----------------------------------------------
  
  * === < artinya Mengkoreksi nilai dan tipe data
  * == < artinya membandingkan nilai saja
