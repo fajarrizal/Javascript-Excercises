@@ -6,14 +6,28 @@
   * String = "3", "Hello World"
   * Null undefined = null , Undefined
 
-# Penjelasan singkat
+# Penjelasan singkat Operator Komparasi
 
+* == : sama dengan
+* != : tidak sama dengan
+* === : strict sama dengan
+* !== : strict tidak sama dengan
+* > : lebih besar
+* >= : lebih besar sama dengan
+* < : lebih kecil
+* <= : lebih kecil sama dengan
+ 
  * === < artinya Mengkoreksi nilai dan tipe data
  * == < artinya membandingkan nilai saja
 ### > contoh : 
  #### 2 == "2" hasil > True (karena membandingkan nilai)
  #### 2 === "2" hasil > false (Karena tipe data tidak sama tapi nilai sama)
 
+# Penjelasan singkat Operator logikal
+
+* && : Logikal AND 
+* || : Logikal OR
+* ! : Logikal NOT
 
 # Integrasi JS HTML
 
