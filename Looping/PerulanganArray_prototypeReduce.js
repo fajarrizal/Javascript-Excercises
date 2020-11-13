@@ -16,3 +16,4 @@ console.log(
 //  ke adalah INDEX POSISI
 // mengubah array element menjadi object memakai {} di kedua terakhir
 // acc adalah ACCUMULATOR
+// jadi hasil data array variabel akan ada value dimana valuenya itu berisi 'Nama Ke dan posisi indexnya'
